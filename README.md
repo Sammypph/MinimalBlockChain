@@ -1,7 +1,7 @@
 # MinimalBlockChain
 A simple block chain implementation
 Install dependencies
-- GSON i.e for converting objects into Json
+- GSON i.e for converting POJOs into Json
 - bouncey - https://www.bouncycastle.org/latest_releases.html  i.e This is a hashing library
 
 The Package has eight class including the main class
